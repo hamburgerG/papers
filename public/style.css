@@ -1,0 +1,13 @@
+html, body, canvas {
+    width:  100%;
+    height: 100%;
+    margin: 0px;
+    overflow: hidden;
+    font:13px/1.231 sans-serif; 
+    *font-size:small;
+}
+
+a {
+  color: #444;
+  text-decoration: none;
+}
